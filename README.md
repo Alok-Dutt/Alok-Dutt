@@ -3,10 +3,4 @@
 - 🌱 I’m currently learning ...REST API, Microservices, Visual builder, OCI , Siebel Implementation
 - 💞️ I’m looking to collaborate on ...Unix shell scripting , PL/SQL , Siebel Implementation /adminstration , EIM 
 - 📫 How to reach me ...	admin@pangaeacorp.ltd
-
-<!---
-Alok-Dutt/Alok-Dutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-https://www.pangaeacorp.ltd/
---->
+     Please visit https://www.pangaeacorp.ltd/
