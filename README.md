@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ...REST API, Microservices, Visual builder, OCI , Siebel Implementation
 - 💞️ I’m looking to collaborate on ...Unix shell scripting , PL/SQL , Siebel Implementation /adminstration , EIM 
 - 📫 How to reach me ...	admin@pangaeacorp.ltd
-     Please visit https://www.pangaeacorp.ltd/
+- 🌐 Please visit https://www.pangaeacorp.ltd/
